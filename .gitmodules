@@ -1,0 +1,21 @@
+[submodule "GENAI-Qwen2-vl-finetuning-ocr"]
+	path = GENAI-Qwen2-vl-finetuning-ocr
+	url = https://github.com/hurairamuzammal/GENAI-Qwen2-vl-finetuning-ocr.git
+[submodule "GENAI-GANS-sketch-to-image"]
+	path = GENAI-GANS-sketch-to-image
+	url = https://github.com/hurairamuzammal/GENAI-GANS-sketch-to-image.git
+[submodule "NLP-Transformer_using_Pytorch"]
+	path = NLP-Transformer_using_Pytorch
+	url = https://github.com/hurairamuzammal/NLP-Transformer_using_Pytorch.git
+[submodule "NLP_Finetuning_Bert_GPT2_T5"]
+	path = NLP_Finetuning_Bert_GPT2_T5
+	url = https://github.com/hurairamuzammal/NLP_Finetuning_Bert_GPT2_T5.git
+[submodule "NLP-LSTM_BiLSTM-Urdu_to_RomanUrdu"]
+	path = NLP-LSTM_BiLSTM-Urdu_to_RomanUrdu
+	url = https://github.com/hurairamuzammal/NLP-LSTM_BiLSTM-Urdu_to_RomanUrdu.git
+[submodule "NLP-RAG-medical-LLM"]
+	path = NLP-RAG-medical-LLM
+	url = https://github.com/hurairamuzammal/NLP-RAG-medical-LLM.git
+[submodule "GENAI-LSTM-BiLSTM-image_captioning"]
+	path = GENAI-LSTM-BiLSTM-image_captioning
+	url = https://github.com/hurairamuzammal/GENAI-LSTM-BiLSTM-image_captioning.git
