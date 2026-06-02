@@ -1,0 +1,2 @@
+# NLP and GenAI project repositories should be tracked as submodules.
+# Add entries with: git submodule add <repository-url> <relative-path>
